@@ -7,7 +7,6 @@ function removeDuplicates(arr) {
       uniqueArr.push(arr[i]);
     }
   }
-
   return uniqueArr;
 }
 
