@@ -34,7 +34,7 @@ titleCase('HERE IS MY HANDLE HERE IS MY SPOUT'); // Here Is My Handle Here Is My
 <details>
   <summary>Click For Solution 1</summary>
 
-```php
+```js
 function titleCase(str) {
   const words = str.toLowerCase().split(' ');
 
